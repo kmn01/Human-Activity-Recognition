@@ -26,7 +26,7 @@ This repo contains the following:
 * Models - Contains pickled models
 * train.csv - Training dataset
 * test.csv - Test dataset
-* HumanActivityRecognition.ipynb - Jupyter notebook for the project containing the entire code and reults
+* HumanActivityRecognition.ipynb - Jupyter notebook for the project containing the entire code and results
 * Report_Group 30.pdf - Report for the project in CVPR format
 * README.md
 
